@@ -1,0 +1,14 @@
+.venv/
+.local/
+.canvas/
+research/
+__pycache__/
+.pytest_cache/
+.ruff_cache/
+*.egg-info/
+dist/
+.env
+.env.*
+!.env.example
+demo-output/
+

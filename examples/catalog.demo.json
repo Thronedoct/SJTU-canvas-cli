@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "course_id": "100",
+  "course_name": "CLI 离线演示（人工测试数据）",
+  "base_url": "https://oc.sjtu.edu.cn",
+  "fetched_at": "2026-11-03T00:00:00+00:00",
+  "files": [],
+  "warnings": [],
+  "assignments": [
+    {
+      "id": "1001", "title": "反相器基础 · 演示",
+      "url": "https://oc.sjtu.edu.cn/", "due_at": "2026-11-01T23:59:00+08:00",
+      "description": "<p>以下题目仅用于展示文档格式。</p>",
+      "attachments": [], "quiz_id": "2001", "expected_questions": 1,
+      "question_status": "available",
+      "questions": [{"id": "1", "position": 1, "type": "multiple_choice_question",
+        "body": "<p>一阶 RC 电路达到最终值的 50% 时，延迟约为多少？</p><p><img class=\"equation_image\" alt=\"\\tau=RC\"></p>",
+        "answers": ["0.69 RC", "2.2 RC", "RC", "3 RC"]}]
+    },
+    {
+      "id": "1002", "title": "未取得题目的测验 · 演示",
+      "url": "https://oc.sjtu.edu.cn/", "description": "<p>演示缺失提示。</p>",
+      "attachments": [], "quiz_id": "2002", "expected_questions": 10,
+      "question_status": "unavailable", "question_note": "示例：当前账号无权读取此资源",
+      "questions": []
+    }
+  ]
+}
