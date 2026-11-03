@@ -9,8 +9,8 @@
 首次使用先克隆项目并安装依赖（需要 Python 3.11+ 和 uv）：
 
 ```powershell
-git clone https://github.com/Thronedoct/sjtu-canvas-cli.git
-cd sjtu-canvas-cli
+git clone https://github.com/Thronedoct/SJTU-canvas-cli.git
+cd SJTU-canvas-cli
 uv sync --extra browser
 ```
 
