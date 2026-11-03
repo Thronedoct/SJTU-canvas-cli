@@ -1,4 +1,4 @@
-# Canvas CLI
+# SJTU Canvas CLI
 
 通用的 Canvas 数据获取与文件操作工具，面向终端用户、脚本和 Agent。
 
@@ -9,8 +9,8 @@
 首次使用先克隆项目并安装依赖（需要 Python 3.11+ 和 uv）：
 
 ```powershell
-git clone https://github.com/Thronedoct/canvas-study.git
-cd canvas-study
+git clone https://github.com/Thronedoct/sjtu-canvas-cli.git
+cd sjtu-canvas-cli
 uv sync --extra browser
 ```
 
